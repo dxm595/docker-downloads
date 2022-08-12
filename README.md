@@ -1,6 +1,7 @@
 # docker-downloads
 
 Docker container to download an exe from a localhost url on port 8000
+Project started by following this write up: -https://www.linkedin.com/pulse/serve-static-files-from-docker-via-nginx-basic-example-arun-kumar
 
 # Building
 
